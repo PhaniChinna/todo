@@ -1,0 +1,17 @@
+GET http://localhost:3000/todos/?status=TO%20DO 
+
+#### 
+GET http://localhost:3000/todos/3 
+
+
+#### 
+GET http://localhost:3000/agenda/?date=2021-09-22 
+
+#### 
+POST http://localhost:3000/todos/
+
+
+
+
+#### 
+DELETE http://localhost:3000/todos/7
